@@ -1,0 +1,14 @@
+{
+  "VmrunPath": "C:\\Program Files (x86)\\VMware\\VMware Workstation\\vmrun.exe",
+  "IntervalTimeMs": 3000,
+  "Vms": [
+    {
+      "VMXPath": "C:\\Users\\haubv\\OneDrive\\Documents\\Virtual Machines\\vm1\\vm1.vmx",
+      "SnapshotName": "Snapshot1"
+    },
+    {
+      "VMXPath": "C:\\Users\\haubv\\OneDrive\\Documents\\Virtual Machines\\vm2\\vm2.vmx",
+      "SnapshotName": "Snapshot1"
+    }
+  ]
+}
